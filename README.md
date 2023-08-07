@@ -59,3 +59,15 @@ static let dateField = "date"
 }
 
 }
+```
+
+
+
+
+<img src="https://github.com/piyushsingh9862/Chat-Messenger-iOS-app/assets/84294976/c46161d2-da41-45f2-aebc-000029c6f249" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+
+<img src="https://github.com/piyushsingh9862/Chat-Messenger-iOS-app/assets/84294976/055e5dc6-fc6f-46db-bb38-72de12a50c05" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+
+<img src="https://github.com/piyushsingh9862/Chat-Messenger-iOS-app/assets/84294976/e30b57fd-9fc6-436a-88b0-ee3fe2e88682" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+
+
