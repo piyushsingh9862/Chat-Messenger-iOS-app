@@ -70,4 +70,8 @@ static let dateField = "date"
 
 <img src="https://github.com/piyushsingh9862/Chat-Messenger-iOS-app/assets/84294976/e30b57fd-9fc6-436a-88b0-ee3fe2e88682" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
 
+    
+<img src="https://github.com/piyushsingh9862/Chat-Messenger-iOS-app/assets/84294976/d1445350-82f6-40f6-9a7a-8ff28083e27a" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png"/>
+
+
 
